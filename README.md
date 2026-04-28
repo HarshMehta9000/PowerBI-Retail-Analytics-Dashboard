@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing sales performance across two Australian retail chains (Bellings and Ready Wear), covering ~76K transactions from 2016–2018. Built to explore geographic sales distribution, category performance, gross profit margins, and quarterly trends.
 
-![Dashboard Preview](PowerBI-Dashboard1-Analytics.png)
+![PowerBI-Dashboard1-Analytics.png](PowerBI-Dashboard1-Analytics.png)
 
 ---
 
